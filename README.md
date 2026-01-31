@@ -4,6 +4,11 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=directoryuser1&label=sundowners&color=f5dae1" />
 
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddling me (˶ᵔ ᵕ ᵔ˶)
+
 ---
 
 

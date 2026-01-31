@@ -22,10 +22,14 @@ feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddli
 <p align="center">
 <img src="50_sin_titulo_20260131182306.webp" width="600px">
 
+</div>
   <a href="https://echolings.straw.page/">
     <img src="49_sin_titulo_20260131175106.webp" width="100"; margin-right:10px;">
   <a href="https://idioteque.atabook.org/">
     <img src="49_sin_titulo_20260131175034.webp" width="60"; margin-left:10px;">
+</div>
+<p align="center">
+<img src="50_sin_titulo_20260131182219.webp" width="600px">
   
 <p align="center">
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - //

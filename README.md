@@ -41,7 +41,8 @@ feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddli
 <p align="center">
 <img src="50_sin_titulo_20260131182219.webp" width="600px">
   
----
+<p align="center">
+<img src="IMG-1071.png" width="700px">
 
   &nbsp;&nbsp;&nbsp;
 

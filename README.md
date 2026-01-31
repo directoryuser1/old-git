@@ -28,7 +28,7 @@ feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddli
 
 <p align="center">
   <a href="https://echolings.straw.page/">
-    <img src="https://img.shields.io/badge/straw!-f5dae1?style=flat&labelColor=f5dae1&color=f5dae1" />
+    <img src="https://img.shields.io/badge/straw-f5dae1?style=flat&labelColor=f5dae1&color=f5dae1" />
   </a>
 
 

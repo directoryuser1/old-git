@@ -59,7 +59,8 @@ feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddli
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-lazy readme...
+stupid fugly readme i hate it
 
-
+<p align="center">
+<img src="IMG_9125.gif" width="700px">
   

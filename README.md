@@ -19,23 +19,37 @@ feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddli
 </p>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">
-<img src="https://i.pinimg.com/736x/73/36/2a/73362a7bba38033eed7e62ebf2a2df8a.jpg" width="600px">
-  
-&nbsp;&nbsp;&nbsp;
+<div style="position: relative; width: 400px;">
 
-&nbsp;&nbsp;&nbsp;
+  <!-- FONDO -->
+  <img src="49_sin_titulo_20260131174927.webp" width="400">
 
-<p align="center">
+  <!-- BOTÓN STRAW -->
   <a href="https://echolings.straw.page/">
-    <img src="https://img.shields.io/badge/straw-f5dae1?style=flat&labelColor=f5dae1&color=f5dae1" />
+    <img src="49_sin_titulo_20260131175106.webp"
+      style="
+        position: absolute;
+        top: 250px;
+        left: 105px;
+        width: 70px;
+        cursor: pointer;
+      ">
   </a>
 
-
+  <!-- BOTÓN ATA -->
   <a href="https://idioteque.atabook.org/">
-    <img src="https://img.shields.io/badge/atabook-f5dae1?style=flat&labelColor=f5dae1&color=f5dae1" />
+    <img src="49_sin_titulo_20260131175034.webp"
+      style="
+        position: absolute;
+        top: 250px;
+        left: 225px;
+        width: 70px;
+        cursor: pointer;
+      ">
   </a>
-</p>
+
+</div> 
+
 
 
   

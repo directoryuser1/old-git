@@ -24,9 +24,9 @@ feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddli
 
 <div style="display: flex; gap: 60px;">
   <a href="https://echolings.straw.page/">
-    <img src="49_sin_titulo_20260131175106.webp"
+    <img src="49_sin_titulo_20260131175106.webp" width="60">
   <a href="https://idioteque.atabook.org/">
-    <img src="49_sin_titulo_20260131175034.webp"
+    <img src="49_sin_titulo_20260131175034.webp" width="60">
   
 <p align="center">
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - //

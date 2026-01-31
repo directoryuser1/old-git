@@ -14,17 +14,16 @@
 <p align="center">
 feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddling me (˶ᵔ ᵕ ᵔ˶)
 
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">
-<img src="IMG-1071.png" width="700px">
-
 
 <p align="center">
   <a href="https://github.com/CaptainSweeper">zabooboo ⸝⸝ captain sweeper</a>  
   </a>
 </p>
 &nbsp;&nbsp;&nbsp;
+
+<p align="center">
+<img src="IMG-1071.png" width="700px">
+
 
 <p align="center">
 <img src="50_sin_titulo_20260131182306.webp" width="600px">

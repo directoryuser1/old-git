@@ -14,8 +14,10 @@
 <p align="center">
 feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddling me (˶ᵔ ᵕ ᵔ˶)
 
----
+&nbsp;&nbsp;&nbsp;
 
+<p align="center">
+<img src="IMG-1071.png" width="700px">
 
 
 <p align="center">

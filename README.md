@@ -1,4 +1,9 @@
 <p align="center">
+<p style="color:90a4b3;">❝ it𝄒s all yours ❞</p>
+
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">
 <img src="IMG_9125.gif" width="700px">
   
 &nbsp;&nbsp;&nbsp;

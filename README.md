@@ -23,11 +23,7 @@ feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddli
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
   <a href="https://github.com/CaptainSweeper">zabooboo ⸝⸝ captain sweeper</a>  

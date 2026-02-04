@@ -1,5 +1,5 @@
 <p align="center">
-<p style="color:90a4b3;">❝ it𝄒s all yours ❞</p>
+style="color:90a4b3;">❝ it𝄒s all yours ❞
 
 &nbsp;&nbsp;&nbsp;
 

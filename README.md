@@ -1,10 +1,12 @@
+
+
 <p align="center">
-<span style="color:90a4b3;">❝ it𝄒s all yours ❞</span>
+<img src="IMG_9125.gif" width="700px">
 
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-<img src="IMG_9125.gif" width="700px">
+<span style="color:90a4b3;">❝ it𝄒s all yours ❞</span>
   
 &nbsp;&nbsp;&nbsp;
   

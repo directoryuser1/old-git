@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=28&duration=2400&pause=700&color=90A4B3&width=700&lines=how+come+i+end+up+where+i+started%3F;how+come+i+end+up+where+i+went+wrong%3F;won't+take+my+eyes+off+the+ball+again;you+reel+me+out+then+you+cut+the+string;.;.;how+come+i+end+up+where+i+started%3F;how+come+i+end+up+where+i+went+wrong%3F;won't+take+my+eyes+off+the+ball+again;first+you+reel+me+out+and+then+you+cut+the+string;.;.;.;.;you+used+to+be+alright+%E2%80%8E+;what+happened%3F;did+the+cat+get+your+tongue%3F;.+%E2%80%8E+%E2%80%8E+;did+your+string+come+undone%3F%E2%80%8E+%E2%80%8E+%E2%80%8E+;+%E2%80%8E+%E2%80%8E+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=18&duration=2400&pause=700&color=90A4B3&center=true&width=700&lines=how+come+i+end+up+where+i+started%3F;how+come+i+end+up+where+i+went+wrong%3F;won't+take+my+eyes+off+the+ball+again;you+reel+me+out+then+you+cut+the+string;.;.;how+come+i+end+up+where+i+started%3F;how+come+i+end+up+where+i+went+wrong%3F;won't+take+my+eyes+off+the+ball+again;first+you+reel+me+out+and+then+you+cut+the+string;.;.;.;.;you+used+to+be+alright+%E2%80%8E+;what+happened%3F;did+the+cat+get+your+tongue%3F;.+%E2%80%8E+%E2%80%8E+;did+your+string+come+undone%3F%E2%80%8E+%E2%80%8E+%E2%80%8E+;+%E2%80%8E+%E2%80%8E+" alt="Typing SVG" /></a>
   
 &nbsp;&nbsp;&nbsp;
   

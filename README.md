@@ -23,8 +23,6 @@ feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddli
 
 &nbsp;&nbsp;&nbsp;
 
-now playing
-
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=a0acb6&bar_color_cover=false">
   </a>

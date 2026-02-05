@@ -22,9 +22,9 @@
 feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddling me (˶ᵔ ᵕ ᵔ˶)
 
 &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=aabac0&bar_color_cover=false">
+now playing
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=a0acb6&bar_color_cover=false">
   </a>
 </p>
 

@@ -21,7 +21,7 @@
 <p align="center">
 <h4>hi there! wlc to my github ^_^</h4>
 
-# i may look kinda embarassed when interacting w new people, i'm sorry if i ever make you feel uncomfortable
+### i may look kinda embarassed when interacting w new people, i'm sorry if i ever make you feel uncomfortable
 
 feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddling me (˶ᵔ ᵕ ᵔ˶) PLS dnc, ask 4 inspo
 

@@ -24,7 +24,8 @@
 
 <sub>***i may look kinda embarassed when interacting w new people, i'm sorry if i ever make you feel uncomfortable***<sub/>
 
-*feel free to c+h anytime without needing to ask 4 it!! i really enjoy ppl cuddling me (˶ᵔ ᵕ ᵔ˶)*
+*feel free to c+h anytime without needing to ask 4 it!!
+i really enjoy ppl cuddling me (˶ᵔ ᵕ ᵔ˶)*
 
 <sub>*PLS dnc & ask 4 inspo*<sub/>
 

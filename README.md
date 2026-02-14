@@ -38,11 +38,14 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <sub>𑣲 . <a href="https://github.com/rojuaka">fyodor</a> .<sub/>
-  <sub><a href="https://github.com/punchblade">hong lu</a> .<sub/>
-  <sub><a href="https://github.com/CONSTELLATED-NIGHT">eggchan</a> .<sub/>
-  <sub><a href="https://github.com/TastyReality">bobette</a> .<sub/>
-  <sub><a href="https://github.com/dummyinbed">ze</a> .<sub/>
+  <sub>
+    𑣲 .
+    <a href="https://github.com/rojuaka">fyodor</a> ·
+    <a href="https://github.com/punchblade">hong lu</a> ·
+    <a href="https://github.com/CONSTELLATED-NIGHT">eggchan</a> ·
+    <a href="https://github.com/TastyReality">bobette</a> ·
+    <a href="https://github.com/dummyinbed">ze</a>
+  </sub>
 </p>
 &nbsp;&nbsp;&nbsp;
 

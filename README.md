@@ -38,7 +38,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <a href="https://github.com/CaptainSweeper">zabooboo ⸝⸝ captain sweeper</a>  
+  <a href="https://github.com/dummyinbed">ze ╱ regect (˶ᵔ ᵕ ᵔ˶)</a>  
   </a>
 </p>
 &nbsp;&nbsp;&nbsp;

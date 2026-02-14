@@ -38,7 +38,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <a href="https://github.com/dummyinbed">𑣲 . ze ╱ regect</a>  
+  <a href="https://github.com/dummyinbed">𑣲 . ze</a>  
   </a>
 </p>
 &nbsp;&nbsp;&nbsp;

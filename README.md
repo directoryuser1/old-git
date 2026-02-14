@@ -40,10 +40,10 @@
 <p align="center">
   <sub>
     𑣲 .
-    <a href="https://github.com/rojuaka">fyodor</a> ·
-    <a href="https://github.com/punchblade">hong lu</a> ·
-    <a href="https://github.com/CONSTELLATED-NIGHT">eggchan</a> ·
-    <a href="https://github.com/TastyReality">bobette</a> ·
+    <a href="https://github.com/rojuaka">fyodor</a>ㅤ˓ㅤ
+    <a href="https://github.com/punchblade">hong lu</a>ㅤ˓ㅤ
+    <a href="https://github.com/CONSTELLATED-NIGHT">eggchan</a>ㅤ˓ㅤ
+    <a href="https://github.com/TastyReality">bobette</a>ㅤ˓ㅤ
     <a href="https://github.com/dummyinbed">ze</a>
   </sub>
 </p>

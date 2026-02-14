@@ -38,7 +38,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  𑣲 . (ze)[https://github.com/dummyinbed]
+  𑣲 . [ze](https://github.com/dummyinbed)
   </a>
 </p>
 &nbsp;&nbsp;&nbsp;

@@ -39,7 +39,7 @@
 
 <p align="center">
   <sub>
-    𑣲 . &nbsp;&nbsp;&nbsp;
+    ︵︵ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/rojuaka">fyodor</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/punchblade">hong lu</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/CONSTELLATED-NIGHT">eggchan</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;

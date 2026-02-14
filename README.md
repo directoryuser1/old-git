@@ -39,12 +39,12 @@
 
 <p align="center">
   <sub>
-    𑣲 .
+    𑣲 . &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/rojuaka">fyodor</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/punchblade">hong lu</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/CONSTELLATED-NIGHT">eggchan</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/TastyReality">bobette</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/dummyinbed">ze</a>
+    <a href="https://github.com/dummyinbed">ze</a>&nbsp;&nbsp;&nbsp; ◞ ♡
   </sub>
 </p>
 &nbsp;&nbsp;&nbsp;
